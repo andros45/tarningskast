@@ -1,2 +1,2 @@
-# tarningskast
-Repo för att simulera tärningskast
+# dice
+Yatzy dice guessing
